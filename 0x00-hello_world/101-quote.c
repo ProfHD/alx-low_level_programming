@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
-/*
+/**
  * main - and that piece of art is useful
  * Return: Always 1
  */
